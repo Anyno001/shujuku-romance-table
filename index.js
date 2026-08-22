@@ -1,6 +1,6 @@
 export const databaseResourcePackage = {
   "schemaVersion": 1,
-  "version": "0.0.1-dev",
+  "version": "1.0.0",
   "tables": [
     {
       "id": "romance-minimal-table",
