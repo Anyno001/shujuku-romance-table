@@ -1,6 +1,6 @@
-export const tianyinzhiyinRomanceRecallV12 = {
-  "id": "tianyinzhiyin-romance-recall-v1-2",
-  "title": "天之音·恋爱召回 v1.2",
+export const tianyinRomanceRecallV12 = {
+  "id": "tianyin-romance-recall-v1-2",
+  "title": "天之音_恋爱召回v1.2",
   "databaseKey": "天之音_恋爱召回v1.2",
   "preset": {
     "name": "天之音_恋爱召回v1.2",
