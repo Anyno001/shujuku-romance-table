@@ -1,6 +1,6 @@
 export const databaseResourcePackage = {
   "schemaVersion": 1,
-  "version": "0.0.0-dev",
+  "version": "0.0.1-dev",
   "tables": [
     {
       "id": "romance-minimal-table",
@@ -13,6 +13,7 @@ export const databaseResourcePackage = {
           "name": "最小 shujuku 表格模板"
         },
         "sheet_0": {
+          "uid": "sheet_0",
           "name": "角色状态",
           "content": [
             [
